@@ -1,4 +1,4 @@
-# Recently amplified beta-propellers
+# Recently amplified propellers
 
 This repository keeps the scripts and data used to identify, at large-scale, recently amplified beta-propellers accross the tree of life.
 
