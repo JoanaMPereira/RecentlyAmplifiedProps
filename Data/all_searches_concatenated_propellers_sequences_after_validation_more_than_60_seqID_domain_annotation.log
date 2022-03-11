@@ -1,0 +1,16 @@
+
+INPUT PARAMETERS:
+ ... Database:                                 ECOD
+ ... Number of threads:                        64
+ ... CPUs for HHsearch:                        1
+ ... Maximum no. of rounds per input sequence: 1
+ ... Minimum probability of a match:           50.0
+ ... Minimum sequence length to annotate:      40
+
+DATABASE: Searches will be performed over database ECOD_F70_20211004 (version from Mon Nov 29 10:53:21 2021)
+
+INPUT SEQUENCES: Found input 10474 sequences, totalling 0 already annotated propellers
+
+SAVING: Results saved in /ebio/abt1_share/highly_repetitive_propellers/data/starting_from_ECOD_blades/selected_cluster_representatives_after_curation/concatenated_searches/results_after_validation_with_hhrepID/propeller_domain_annotations_more_stringent/all_searches_concatenated_propellers_sequences_after_validation_more_than_60_seqID_domains_annotated.csv
+
+END: Finished after: 0 days 05 hours 34 min 10 sec
